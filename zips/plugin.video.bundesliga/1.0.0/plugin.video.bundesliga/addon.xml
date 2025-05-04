@@ -1,0 +1,16 @@
+<addon id="plugin.video.bundesliga"
+       name="Fussball-streams"
+       version="1.0.0"
+       provider-name="Elias">
+    <requires>
+        <import addon="xbmc.python" version="3.0.0"/>
+    </requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Live Bundesliga Streams</summary>
+        <description>Bundesliga Championsleauge etc.</description>
+        <platform>all</platform>
+    </extension>
+</addon>

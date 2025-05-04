@@ -1,0 +1,1 @@
+(dein vollständiger Python-Code wird hier eingefügt – bereits gegeben)
